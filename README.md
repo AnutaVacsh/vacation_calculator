@@ -13,5 +13,7 @@ Mockito
 
 ## Usage
 Запрос с указанием точного дня ухода в отпуск:  
-http://localhost:8081/calculacte/40000/12.01.2024/12.02.2024  
+```shell
+http://localhost:8081/calculacte/40000/12.01.2024/12.02.2024
+```
 Response: 30034,13 
